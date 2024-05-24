@@ -14,6 +14,8 @@ int main(){
       cout<<endl;
     }
 }
+// No.of rows :- 4
+// No.of column :- 4
 // * * * *
 // * * * *
 // * * * *
