@@ -2,7 +2,7 @@
 using namespace std;
 //     (Actual argument)
 int sum(int x,int y){
-      return x+y;
+      return x+y; // return ends function 
 }
 int main(){
     // int x = 10;
