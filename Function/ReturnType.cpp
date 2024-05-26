@@ -10,6 +10,6 @@ int main(){
     int x,y;
     cout<<"Enter the two number:- ";
     cin>>x>>y;
-                      //(Formal parameter)
+                      //(Formal Argument)
     cout<<"Sum :- "<<sum(x,y)<<endl;
 }
