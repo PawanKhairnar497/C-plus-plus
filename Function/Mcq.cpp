@@ -39,7 +39,7 @@
 // int fun(int x, int y){
 //     return (x + y);
 // }
-// output --> 
+// output --> 5
 
 //4
 // #include<iostream>
