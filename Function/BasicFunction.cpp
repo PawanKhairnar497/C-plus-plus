@@ -1,4 +1,4 @@
-#include<iostream>
+t#include<iostream>
 using namespace std;
 int main(){
 //Method 1
@@ -39,3 +39,18 @@ int main(){
  }
 return 0;
 }
+// 3
+// * 
+// * * 
+// * * *
+// 4
+// * 
+// * * 
+// * * * 
+// * * * *
+// 5
+// * 
+// * * 
+// * * * 
+// * * * * 
+// * * * * *
