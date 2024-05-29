@@ -1,0 +1,20 @@
+
+  1 byte =  8 bits 
+
+  1 kilobyte(kb) --> 1024 bytes
+  1 Mb --> 1024 Kb
+  1 Gb --> 1024 Mb
+
+  int has 4 bytes total -->  32 bits
+  float has 4 bytes total --> 32 bits
+  char has 1 bytes total -->  8 bits
+  bool has 1 bytes total --> 8 bits
+  long has long 8 bytes --> 64 bits
+  double has 8 bytes --> 64 bits
+
+    cout<<sizeof(int)<<endl;
+    cout<<sizeof(char)<<endl;
+    cout<<sizeof(bool)<<endl;
+    cout<<sizeof(float)<<endl;
+    cout<<sizeof(long long)<<endl;
+    cout<<sizeof(double);
