@@ -8,7 +8,8 @@ int main(){
     cout<<endl;
 
     // dereference operator
-    cout<<*p; // prints the address's variable value
+    cout<<*p; // *p --> 12
+ // prints the address's variable value
    
    // p ke andar jo address rakha hai,us address pe jao & vahan ki variable ki value print karo
 
