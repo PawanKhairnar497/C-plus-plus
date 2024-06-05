@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // 2
 using namespace std;
 void greeting(){
     cout<<"Good morning"<<endl;
