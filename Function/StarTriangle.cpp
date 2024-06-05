@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // 3
 using namespace std;
 void StarTriangle(int x){
         for(int i=1;i<=x;i++){
