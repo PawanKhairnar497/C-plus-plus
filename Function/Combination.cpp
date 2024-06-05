@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // 6
 using namespace std;
 int fact(int x){
     int f = 1;
