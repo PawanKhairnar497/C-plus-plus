@@ -1,4 +1,4 @@
-t#include<iostream>  // 1
+#include<iostream>  // 1
 using namespace std;
 int main(){
 //Method 1
