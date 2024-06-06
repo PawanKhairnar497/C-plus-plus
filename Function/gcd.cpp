@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>  // 14
 using namespace std;
 // Write a function to compute the greatest common divisor of two given numbers
 int gcd(int a,int b){
@@ -25,3 +25,6 @@ int main(){
     cin>>b;
     cout<<gcd(a,b);
 }
+// Enter 1st number:- 24
+// Enter 2nd number:- 60
+// 12
