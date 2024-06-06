@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>  // 7
 using namespace std;
 
 int fact(int x){
@@ -19,7 +19,7 @@ int main(){
     cout<<"Enter n :- ";
     cin>>n;
     int r;
-    cout<<"Ener r :- ";
+    cout<<"Enter r :- ";
     cin>>r;
     int ncr = combination(n,r);  // function calling
     cout<<" "<<ncr;
