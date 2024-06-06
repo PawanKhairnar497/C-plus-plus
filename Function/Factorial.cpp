@@ -1,12 +1,5 @@
 #include<iostream>
 using namespace std;
-int fact(int n){
-    int fact = 1;
-    for(int i=2;i<=n;i++){
-        fact *= i;
-    }
-    return fact;
-}
 int main(){
     int n;
     cout<<"Enter the number:- ";
@@ -20,3 +13,11 @@ int main(){
         cout<<fact<<endl;
     }
 }
+// Enter the number:- 7
+// 1
+// 2
+// 6
+// 24
+// 120
+// 720
+// 5040
