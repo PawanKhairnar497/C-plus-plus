@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // 10
 using namespace std;
 // Write a function to find out the first & last Digit of a number without returning anything 
 void find(int n,int *ptr1,int *ptr2){
