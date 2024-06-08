@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // 6
 using namespace std;
 int main(){
     int x = 12, y = 10;
