@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-    int arr[7];
+    int arr[7];    // Array starts from 0 & ends on 6
     cout<<"Enter 7 array elements :- "<<endl;
     
     // Input
