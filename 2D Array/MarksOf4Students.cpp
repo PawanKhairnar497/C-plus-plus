@@ -1,5 +1,5 @@
 // Write a program to store roll number and marks obtained by 4 students side by side in a matrix 
-#include<iostream>
+#include<iostream>  // 4
 using namespace std;
 int main(){
     int arr[2][4];
